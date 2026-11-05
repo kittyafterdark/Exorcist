@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "name": "Image Exorcist",
+  "identifier": "image_exorcist",
+  "author": "KittyLotus (unofficial)",
+  "description": "Visual-only image replacement for Lumiverse: redact, replace, or hide avatars, inline pictures, and CSS backgrounds. No backend access.",
+  "permissions": [],
+  "entry_frontend": "dist/frontend.js"
+}
